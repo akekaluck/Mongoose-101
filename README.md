@@ -1,6 +1,7 @@
 # Mongoose-101
 1. connect
   * create connection
+    - conn = mongoose.connect
     - conn = mongoose.createConnection
   * create schema
     - mongoose.Schema
